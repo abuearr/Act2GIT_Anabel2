@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0; 
+}
+header{
+    height: 10vh;
+    
+}
+
+.titulo{
+    color:rgb(31, 128, 31);
+}
+
+nav{
+    background-color: rgb(31, 128, 31);
+    height: 5vh;
+    display: flex;
+    align-items: center;
+}
+
+main{
+    display: flex;
+    height: 75vh;
+}
+
+footer{
+    background-color: black;
+    color:white;
+    height: 10vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+article{
+    color:aliceblue;
+    display: flex;
+}
+
+section{
+    width: 10vw;
+}
