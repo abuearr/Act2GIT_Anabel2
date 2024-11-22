@@ -7,6 +7,15 @@ header{
     
 }
 
+*{
+    margin: 0;
+    padding: 0; 
+}
+header{
+    height: 10vh;
+    
+}
+
 .titulo{
     color:rgb(31, 128, 31);
 }
@@ -39,4 +48,8 @@ article{
 
 section{
     width: 10vw;
+}
+
+a{
+    color: white; 
 }
